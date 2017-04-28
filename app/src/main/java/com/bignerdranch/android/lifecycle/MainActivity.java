@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     /*
      * This tag will be used for logging. It is best practice to use the class's name using
      * getSimpleName as that will greatly help to identify the location from which your logs are
-     * being posted.
+     * being posted.订单
      */
     private static final String TAG = MainActivity.class.getSimpleName();
 
